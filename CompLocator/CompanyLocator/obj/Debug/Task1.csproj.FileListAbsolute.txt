@@ -1,0 +1,11 @@
+C:\Users\sysadmin\source\repos\ravish\ravish\ravish\bin\Debug\ravish.exe.config
+C:\Users\sysadmin\source\repos\ravish\ravish\ravish\bin\Debug\ravish.exe
+C:\Users\sysadmin\source\repos\ravish\ravish\ravish\bin\Debug\ravish.pdb
+C:\Users\sysadmin\source\repos\ravish\ravish\ravish\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\sysadmin\source\repos\ravish\ravish\ravish\obj\Debug\ravish.Properties.Resources.resources
+C:\Users\sysadmin\source\repos\ravish\ravish\ravish\obj\Debug\Task1.csproj.GenerateResource.Cache
+C:\Users\sysadmin\source\repos\ravish\ravish\ravish\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\sysadmin\source\repos\ravish\ravish\ravish\obj\Debug\ravish.exe
+C:\Users\sysadmin\source\repos\ravish\ravish\ravish\obj\Debug\ravish.pdb
+C:\Users\sysadmin\source\repos\ravish\ravish\ravish\obj\Debug\FirstAssignment.UI.resources
+C:\Users\sysadmin\source\repos\ravish\ravish\ravish\obj\Debug\FirstAssignment.OutputScreen.resources
